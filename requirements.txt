@@ -1,0 +1,5 @@
+torch==2.1
+streamlit
+python-dotenv
+PyPDF2
+langchain
